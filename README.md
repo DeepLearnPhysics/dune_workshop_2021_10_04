@@ -24,6 +24,9 @@ You can find data files for the examples in this notebook at the DUNE gpvm serve
 ```
 /dune/data/users/kterao/mpvmpr_2020_01_v04
 ```
+The network model parameters for day 1 and 2: 
+`/dune/data/users/kterao/snapshot-33999.ckpt`
+
 
 ## Computing resource
 Our demo will use NVIDIA GPU but the code could run on CPU.
